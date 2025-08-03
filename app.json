@@ -1,5 +1,5 @@
 {
-  "name": "𝗥𝗔𝗪𝗔𝗡𝗔-𝗠𝗗",
+  "name": "maduvantha",
   "description": "Javascript WhatsApp bot made by FRAMEXTEAM",
   "logo": "https://i.imghippo.com/files/WU1039XIY.jpg",
   "keywords": ["bot"],
@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put your session id here.",
+      "description": "NjVAlSbJ#mdscQ3vqgRpdzw37ql5p_62dMmlxuEUJDK4zbjoeb5o",
       "required": true
     },  
 
@@ -17,7 +17,7 @@
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "hi",
       "required": true
     }   
 },
